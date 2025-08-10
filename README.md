@@ -44,23 +44,3 @@ It includes **user authentication**, **post creation**, **token-based features**
 
 ---
 
-##  Project Structure
-CircleHub/
-│
-├── src/main/java/com/circlehub/
-│ ├── controller/ # Controllers for handling requests
-│ ├── dao/ # DAO classes for database interaction
-│ ├── model/ # Entity classes (User, Post, Token)
-│ ├── service/ # Business logic (AuthService, TokenService, etc.)
-│ ├── util/ # Utility classes (DBConnection, Password hashing, etc.)
-│
-├── src/main/resources/
-│ ├── application.properties 
-│ ├── fxml/ 
-│ ├── icons/ 
-│ ├── logo/ 
-│ ├── placeholders/ 
-│ ├── tokens/ 
-│
-└── pom.xml 
-
