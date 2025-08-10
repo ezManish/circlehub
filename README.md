@@ -31,7 +31,18 @@ It includes **user authentication**, **post creation**, **token-based features**
 - Manage token rewards
 
 ---
+##  Tech Stack
 
+| Layer               | Technology Used |
+|---------------------|-----------------|
+| **Backend**         | Java 17, Spring Boot |
+| **Database**        | MySQL (JDBC) |
+| **Authentication**  | JWT (JSON Web Token) |
+| **ORM Layer**       | DAO (Data Access Objects) |
+| **Frontend (UI)**   | JSP / Thymeleaf / HTML-CSS |
+| **Build Tool**      | Maven |
+
+---
 
 ##  Project Structure
 CircleHub/
