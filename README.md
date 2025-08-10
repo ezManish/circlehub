@@ -35,11 +35,10 @@ It includes **user authentication**, **post creation**, **token-based features**
 
 | Layer               | Technology Used |
 |---------------------|-----------------|
-| **Backend**         | Java 17, Spring Boot |
+| **Backend**         | Java 17 |
 | **Database**        | MySQL (JDBC) |
-| **Authentication**  | JWT (JSON Web Token) |
 | **ORM Layer**       | DAO (Data Access Objects) |
-| **Frontend (UI)**   | JSP / Thymeleaf / HTML-CSS |
+| **Frontend (UI)**   | JavaFX |
 | **Build Tool**      | Maven |
 
 ---
