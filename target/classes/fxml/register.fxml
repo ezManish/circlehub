@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<AnchorPane xmlns:fx="http://javafx.com/fxml" fx:controller="com.circlehub.controller.RegisterController" prefWidth="600" prefHeight="500">
+    <children>
+        <VBox spacing="8" layoutX="140" layoutY="60">
+            <Label text="CircleHub — Register" />
+            <TextField fx:id="usernameField" promptText="Username" />
+            <TextField fx:id="emailField" promptText="Email" />
+            <PasswordField fx:id="passwordField" promptText="Password" />
+            <TextField fx:id="displayNameField" promptText="Display name (optional)" />
+            <Button text="Create Account" onAction="#onRegister" />
+            <Label fx:id="messageLabel" />
+        </VBox>
+    </children>
+</AnchorPane>
