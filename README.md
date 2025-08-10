@@ -25,7 +25,7 @@ It includes **user authentication**, **post creation**, **token-based features**
 - Token-based user authentication
 - Token balance management for premium features
 
-###  Admin Tools (Optional)
+###  Admin Tools
 - View all registered users
 - Moderate posts
 - Manage token rewards
