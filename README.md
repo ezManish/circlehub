@@ -33,10 +33,6 @@ It includes **user authentication**, **post creation**, **token-based features**
 ---
 
 
-| **Build Tool**      | Maven |
-
----
-
 ##  Project Structure
 CircleHub/
 │
